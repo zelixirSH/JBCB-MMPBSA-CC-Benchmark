@@ -1,8 +1,8 @@
-# JBCB-MMPBSA-CC-Benchmark
+# Sampling Challenges of MM/PBSA Binding Energy Calculations
 
 
 ## Description
-This is a dataset we used to test MM/PBSA convergence, containing a total of 19 protein-small molecule systems across multiple series. Each system's folder includes the corresponding topology files, coordinate files, parameter files, and MD execution scripts that can be used to run molecular dynamics simulations with OpenMM.
+This is a parameter set we used to test MM/PBSA convergence, containing a total of 19 protein-small molecule systems across multiple series. Each system's folder includes the corresponding topology files, coordinate files, parameter files, and MD execution scripts that can be used to run molecular dynamics simulations with OpenMM.
 
 
 ## Reference
